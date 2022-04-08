@@ -4,4 +4,4 @@
 # 2022-04-07 6주차 
 <img width="" height="" src="./pic/TCPIP 6주차.png"></img>
 
-<img width="" height="" src="./pic/udp 통신 결과 화면.
+<img width="" height="" src="./pic/udp 통신 결과화면.png"></img>
