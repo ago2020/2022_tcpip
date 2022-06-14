@@ -1,7 +1,5 @@
 # 2022_tcpip
 - 2022년 1학기 TCP/IP 네트워크 프로그래밍 저장소
 
-# 2022-04-07 6주차 
-<img width="" height="" src="./pic/TCPIP 6주차.png"></img>
-
-<img width="" height="" src="./pic/udp 통신 결과화면.png"></img>
+# 2022-06-15 기말고사 
+## 멀티쓰레드 기반의 다중접속 서버의 구현
