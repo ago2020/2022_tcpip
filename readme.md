@@ -6,7 +6,9 @@
 - 쓰레드 기반 TCP/IP 네트워크 프로그래밍 소스 주석한 코드입니다.
 
 ## chat_serv.c
-<pre><code>
+
+```c
+
 #include <stdio.h> // 입출력
 #include <stdlib.h> // 문자열 변환, 의사 난수 생성
 #include <unistd.h> // 표준 심볼 상수 및 자료형
@@ -107,9 +109,13 @@ void error_handling(char* msg) // 에러 핸들링 코드
 	fputc('\n', stderr);
 	exit(1); // -1
 }
-</code></pre>
+
+```
+
 ## chat_clint.c
+
 <pre><code>             
+
 #include <stdio.h> // 입출력
 #include <stdlib.h> // 문자열 변환, 의사 난수 생성
 #include <unistd.h> // 표준 심볼 상수 및 자료형
