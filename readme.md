@@ -112,6 +112,8 @@ void error_handling(char* msg) // 에러 핸들링 코드
 
 ```
 
+### 서버 실행 방법: ./chat_server 9190
+
 ## chat_clint.c
 
 ```c             
@@ -206,3 +208,5 @@ void error_handling(char* msg)
 }
 
 ```
+
+### 클라이언트 실행 방법: ./chat_clint 127.0.0.1 9190 name
