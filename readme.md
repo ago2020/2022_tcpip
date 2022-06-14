@@ -114,7 +114,7 @@ void error_handling(char* msg) // 에러 핸들링 코드
 
 ## chat_clint.c
 
-<pre><code>             
+```c             
 
 #include <stdio.h> // 입출력
 #include <stdlib.h> // 문자열 변환, 의사 난수 생성
@@ -204,4 +204,5 @@ void error_handling(char* msg)
 	fputc('\n', stderr);
 	exit(1);
 }
-</code></pre>
+
+```
